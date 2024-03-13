@@ -4,19 +4,6 @@ import client.Person;
 import java.util.Random;
 import goods.Item;
 import payment.CreditCard;
-
-//==========================================
-//PROGRAMMER: Edima Nyong
-//PANTHER ID: 6422984
-//CLASS: COP2210
-//SECTION: U02
-//SEMESTER: Fall 2023
-//CLASSTIME: T/TH 9:30-12:15 am
-//Lab: Project 2
-//DUE: Nov 28 (11:59)
-//CERTIFICATION: I understand FIU’s academic policies, and I certify that this work is my
-//own and that none of it is the work of any other person.
-//==========================================
 public class Controller {
     public static void main(String args[]) throws InterruptedException{
 
